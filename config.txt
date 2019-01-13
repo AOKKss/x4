@@ -1,6 +1,6 @@
 token= NTEzODMxMjg3NzczOTg2ODE3.DtNwzA.mM0Zcv4xzhGVfFpmb0OoWjdhMfY
 owner= 532712973467123712
 prefix= 4
-game= 4play -✖ Crew.
+game= 4play -✖ Crew by 89!
 stayinchannel=true
 songinstatus=true 
